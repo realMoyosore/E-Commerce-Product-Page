@@ -1,5 +1,12 @@
-# Avoid your project being littered with annoying .DS_Store files!
+# IDEs and editors
+/.vscode
+
+# Misc
 .DS_Store
-.vscode
+Thumbs.db
+README-template.md
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+style-guide.md
 /design
-*.md
