@@ -124,3 +124,36 @@ header {
   opacity: 1;
   background: #fff;
 }
+
+/* Product info */
+.product-info {
+  flex: 1.2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 24px;
+}
+
+.product-info .company {
+  text-transform: uppercase;
+  color: #ff7d1a;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+}
+
+.product-info h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1d2026;
+  margin: 0 0 24px 0;
+  line-height: 1.1;
+}
+
+.product-info .description {
+  color: #69707d;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
