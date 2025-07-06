@@ -157,3 +157,36 @@ header {
   line-height: 1.7;
   margin-bottom: 24px;
 }
+
+/* Price section */
+.price-section {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 8px;
+}
+
+.price-section .current-price {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1d2026;
+}
+
+.price-section .discount {
+  background: #ffeede;
+  color: #ff7d1a;
+  font-weight: 700;
+  font-size: 1rem;
+  border-radius: 8px;
+  padding: 4px 12px;
+  margin-left: 12px;
+}
+
+.price-section .old-price {
+  color: #b6bcc8;
+  font-size: 1.1rem;
+  text-decoration: line-through;
+  font-weight: 700;
+  margin-left: 0;
+  margin-top: 8px;
+}
