@@ -100,7 +100,7 @@ header {
   gap: 24px;
 }
 
-.product-gallery #main-image {
+#main-image {
   width: 420px;
   height: 420px;
   border-radius: 18px;
