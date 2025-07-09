@@ -92,6 +92,10 @@ header {
   box-shadow: none;
 }
 
+.product-section {
+  display: flex;
+}
+
 /* Product image gallery */
 .product-gallery {
   flex: 1.1;
