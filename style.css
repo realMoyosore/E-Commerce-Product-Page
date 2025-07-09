@@ -10,7 +10,8 @@ body {
 header {
   background: #fff;
   border-bottom: 1px solid #e4e9f2;
-  padding: 0 0 32px 0;
+  padding: 20px 0;
+  margin: 40px 0;
 }
 
 .header-class {
@@ -19,7 +20,6 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 32px 0 0 0;
 }
 
 #logo {
@@ -95,6 +95,7 @@ header {
 
 .product-section {
   display: flex;
+  margin-top: 40px;
 }
 
 /* Product image gallery */
