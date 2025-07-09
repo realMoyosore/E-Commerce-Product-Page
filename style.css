@@ -100,7 +100,7 @@ header {
   gap: 24px;
 }
 
-#main-image {
+#main-image > img {
   width: 420px;
   height: 420px;
   border-radius: 18px;
