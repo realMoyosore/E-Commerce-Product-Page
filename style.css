@@ -9,17 +9,20 @@ body {
   justify-content: center;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 /* Header styles */
 header {
   background: #fff;
   border-bottom: 1px solid #e4e9f2;
-  padding: 20px 0;
-  margin: 40px 0;
+  padding: 30px 0;
 }
 
 .header-class {
   max-width: 1100px;
-  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -87,7 +90,7 @@ header {
 /* Main content layout */
 .container {
   max-width: 1100px;
-  margin: 48px auto 0 auto;
+  margin: 0 auto;
   background: none;
   display: flex;
   gap: 80px;
@@ -98,7 +101,7 @@ header {
 
 .product-section {
   display: flex;
-  margin-top: 40px;
+  margin-top: 100px;
 }
 
 /* Product image gallery */
