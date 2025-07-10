@@ -11,7 +11,6 @@ The designs were created to the following widths:
 
 ## Colors
 
-
 ### Primary
 
 - Orange: hsl(26, 100%, 55%)
