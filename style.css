@@ -192,8 +192,8 @@ header {
 }
 
 .price-section .discount {
-  background: #ffeede;
-  color: #ff7d1a;
+  background: hsl(220, 13%, 13%);
+  color: hsl(0, 0%, 100%);
   font-weight: 700;
   font-size: 1rem;
   border-radius: 8px;
@@ -202,9 +202,8 @@ header {
 }
 
 .price-section .old-price {
-  color: #b6bcc8;
+  color: hsl(219, 9%, 45%);
   font-size: 1.1rem;
-  text-decoration: line-through;
   font-weight: 700;
   margin-left: 0;
   margin-top: 8px;
