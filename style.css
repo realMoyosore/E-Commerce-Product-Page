@@ -66,6 +66,7 @@ header {
 .nav-bar ul li a:hover,
 .nav-bar ul li a:focus {
   color: #1d2026;
+  border-bottom: 4px solid #ff7d1a;
 }
 
 #cart-icon {
