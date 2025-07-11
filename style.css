@@ -28,6 +28,12 @@ header {
   justify-content: space-between;
 }
 
+.nav-section {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
 #logo {
   font-weight: 800;
   font-size: 2rem;
