@@ -12,15 +12,17 @@ A responsive ecommerce product page challenge from [Frontend Mentor](https://www
 ## Technologies
 
 - HTML5
-- CSS3 / SCSS
+- CSS3
 - JavaScript
 
 ## Getting Started
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/your-username/ecommerce-product-page-main.git
     ```
+
 2. Open `index.html` in your browser.
 
 ## Screenshots
