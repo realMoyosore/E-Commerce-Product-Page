@@ -27,8 +27,8 @@ A responsive ecommerce product page challenge from [Frontend Mentor](https://www
 
 ## Screenshots
 
-![Desktop Screenshot](./screenshots/desktop.png)
-![Mobile Screenshot](./screenshots/mobile.png)
+![Desktop Screenshot](./design/desktop-design.jpg)
+![Mobile Screenshot](./design/mobile-design.jpg)
 
 ## Credits
 
