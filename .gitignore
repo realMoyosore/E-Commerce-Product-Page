@@ -1,12 +1,6 @@
-# IDEs and editors
-/.vscode
-
 # Misc
 .DS_Store
 Thumbs.db
-README-template.md
-README.md
-CHANGELOG.md
-CONTRIBUTING.md
-style-guide.md
+*.md
+!README.md
 /design
