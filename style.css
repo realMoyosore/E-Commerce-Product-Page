@@ -69,6 +69,8 @@ header {
   border-bottom: 4px solid #ff7d1a;
 }
 
+
+/* Cart style */
 #cart-icon {
   cursor: pointer;
 }
@@ -90,6 +92,13 @@ header {
   display: block;
 }
 
+.cart-icon {
+  font-size: 1.5rem;
+  color: #69707d;
+  cursor: pointer;
+}
+
+/* Profile style */
 .profile {
   display: flex;
   align-items: center;
@@ -109,12 +118,6 @@ header {
 
 .profile img:hover {
   border: 2px solid #ff7d1a;
-}
-
-.cart-icon {
-  font-size: 1.5rem;
-  color: #69707d;
-  cursor: pointer;
 }
 
 /* Main content layout */
