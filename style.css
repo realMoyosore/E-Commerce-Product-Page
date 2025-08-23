@@ -71,10 +71,6 @@ header {
 }
 
 /* Cart */
-#cart-icon {
-  cursor: pointer;
-}
-
 .cart-window {
   position: absolute;
   top: 100px;
@@ -206,7 +202,6 @@ header {
   color: hsl(219, 9%, 45%);
   font-size: 1.2rem;
   line-height: 1.7;
-  /* margin-bottom: 24px; */
 }
 
 /* Price section */
