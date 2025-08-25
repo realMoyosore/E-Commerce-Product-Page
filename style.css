@@ -88,10 +88,14 @@ header {
   display: block;
 }
 
-.cart-icon {
+#cart-icon {
   font-size: 1.5rem;
   color: #69707d;
   cursor: pointer;
+}
+
+#cart-icon:hover {
+  color: #ff7d1a;
 }
 
 /* Profile */
