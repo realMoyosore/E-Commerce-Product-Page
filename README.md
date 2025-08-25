@@ -33,4 +33,4 @@ A responsive ecommerce product page challenge from [Frontend Mentor](https://www
 ## Credits
 
 Challenge by [Frontend Mentor](https://www.frontendmentor.io/).  
-Coded by [Your Name].
+Coded by [Moyosore Sulola](https://www.linkedin.com/in/moyosore-sulola/).

@@ -34,6 +34,7 @@ header {
   font-size: 2rem;
   letter-spacing: -1px;
   color: #1d2026;
+  cursor: pointer;
 }
 
 /* Navigation */
@@ -137,7 +138,7 @@ header {
   margin-top: 100px;
 }
 
-/* Product image gallery */
+/* Product gallery */
 .product-gallery {
   flex: 1.1;
   display: flex;
