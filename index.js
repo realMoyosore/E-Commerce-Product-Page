@@ -21,13 +21,3 @@ addToCartButtons.forEach(button => {
         cartWindow.classList.add('visible');
     });
 });
-
-const quantityInputs = document.querySelectorAll('.cart-quantity');
-quantityInputs.forEach(input => {
-    input.addEventListener('change', () => {
-        const quantity = parseInt(input.value);
-        if (quantity < 1) {
-            input.value = 1;
-        }
-    });
-});
