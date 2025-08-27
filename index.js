@@ -9,8 +9,3 @@ const closeCartBtn = document.getElementById('close-cart');
 closeCartBtn.addEventListener('click', () => {
     cartWindow.classList.remove('visible');
 });
-
-const overlay = document.getElementById('overlay');
-overlay.addEventListener('click', () => {
-    cartWindow.classList.remove('visible');
-});
