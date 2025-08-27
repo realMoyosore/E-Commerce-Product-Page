@@ -351,4 +351,11 @@ footer {
     width: 100%;
     justify-content: center;
   }
+
+  .quantity-selector {
+    width: 100%;
+  }
+
+  
+
 }
