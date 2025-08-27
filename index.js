@@ -14,10 +14,3 @@ const overlay = document.getElementById('overlay');
 overlay.addEventListener('click', () => {
     cartWindow.classList.remove('visible');
 });
-
-const addToCartButtons = document.querySelectorAll('.add-to-cart');
-addToCartButtons.forEach(button => {
-    button.addEventListener('click', () => {
-        cartWindow.classList.add('visible');
-    });
-});
