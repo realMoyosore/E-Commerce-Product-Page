@@ -20,7 +20,8 @@ A responsive ecommerce product page challenge from [Frontend Mentor](https://www
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ecommerce-product-page-main.git
+    git clone https://github.com/realMoyosore/E-Commerce-Product-Page.git
+    
     ```
 
 2. Open `index.html` in your browser.
