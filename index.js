@@ -17,3 +17,9 @@ document.addEventListener('click', (event) => {
         cartWindow.classList.remove('visible');
     }
 });
+
+// Prevent closing cart when clicking inside it
+cartWindow.addEventListener('click', (event) => {
+    event.stopPropagation();
+});
+
