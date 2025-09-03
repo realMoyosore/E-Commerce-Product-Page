@@ -53,3 +53,7 @@ function addProductsToCart() {
 
     removeFromCart(2);
 }
+
+addProductsToCart();
+
+
