@@ -46,6 +46,10 @@ function updateCart() {
 }
 
 // Product addition
-addToCart({ id: 1, name: 'Product 1', price: 100 });
-addToCart({ id: 2, name: 'Product 2', price: 150 });
-addToCart({ id: 3, name: 'Product 3', price: 200 });
+function addProductsToCart() {
+    addToCart({ id: 1, name: 'Product 1', price: 100 });
+    addToCart({ id: 2, name: 'Product 2', price: 150 });
+    addToCart({ id: 3, name: 'Product 3', price: 200 });
+
+    removeFromCart(2);
+}
