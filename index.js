@@ -23,3 +23,24 @@ cartWindow.addEventListener('click', (event) => {
     event.stopPropagation();
 });
 
+// Cart functionality
+
+const cart = [];
+
+function addToCart(product) {
+    cart.push(product);
+    updateCart();
+}
+
+function removeFromCart(productId) {
+    const index = cart.findIndex(item => item.id === productId);
+    if (index !== -1) {
+        cart.splice(index, 1);
+        updateCart();
+    }
+}
+
+function updateCart() {
+    // Update cart UI
+    console.log('Cart updated:', cart);
+}
